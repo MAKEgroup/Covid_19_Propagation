@@ -1,5 +1,5 @@
 # Covid_19_Propagation
-You can see the porject phases by the links below:
+You can see the porject phases report by the links below:
 
 | Phase No.   | Link                                              |
 | ----------- | ------------------------------------------------- |
